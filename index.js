@@ -1,2 +1,2 @@
 
-function destructivelyAppendKitten(name){name.appendKitten()}
+function destructivelyAppendKitten(name){name.push()}
