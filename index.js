@@ -5,3 +5,4 @@ function destructivelyRemoveLastKitten(){kittens.pop("Garfield"); return kittens
 function destructivelyRemoveFirstKitten(){kittens.shift("Milo"); return kittens}
 function appendKitten(name){var newKittens = [...kittens,name];return newKittens}
 function prependKitten(name) {var newKittens = [name, ...kittens];return newKittens;}
+function 
